@@ -63,3 +63,6 @@ The confusion matrix shows that the model is doing a good job of classifying pne
 * The model should be used in conjunction with other diagnostic tools and should not be relied upon solely to make decisions about patient care. It is also important to ensure that the model is used in a way that is compliant with all relevant regulations and privacy laws:
 
 Overall, the model has the potential to be a valuable tool for improving the early detection and diagnosis of chest related medical conditions. However, it is important to use the model in a responsible and ethical way.
+
+## slides link
+https://www.canva.com/design/DAFui7NYBcI/ew38vlNmL5vjkZqPMdJpfQ/edit?utm_content=DAFui7NYBcI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
